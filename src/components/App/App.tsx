@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { fetchMovies } from "../../servises/movieService";
+import { fetchMovies } from "../../services/movieService";
 import MovieGrid from "../MovieGrid/MovieGrid";
 import SearchBar from "../SearchBar/SearchBar";
 import "./App.module.css";
